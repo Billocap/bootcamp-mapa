@@ -244,7 +244,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"\/gifs\/portal_2.gif"
+                         "value":"..\/gifs\/portal_2.gif"
                         }],
                  "rotation":0,
                  "visible":true,

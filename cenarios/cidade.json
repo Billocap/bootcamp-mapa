@@ -332,7 +332,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"\/gifs\/portal.gif"
+                         "value":"..\/gifs\/portal.gif"
                         }],
                  "rotation":0,
                  "visible":true,
