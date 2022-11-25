@@ -316,68 +316,6 @@
         }, 
         {
          "draworder":"topdown",
-         "id":7,
-         "name":"bandeiras",
-         "objects":[
-                {
-                 "class":"website",
-                 "height":90,
-                 "id":1,
-                 "name":"bandeira1",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"gifs\/bandeiradecanto.gif"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":180,
-                 "x":2405,
-                 "y":236
-                }, 
-                {
-                 "class":"website",
-                 "height":90,
-                 "id":3,
-                 "name":"bandeira3",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"gifs\/bandeiradecanto.gif"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":180,
-                 "x":1640,
-                 "y":235
-                }, 
-                {
-                 "class":"website",
-                 "height":150,
-                 "id":4,
-                 "name":"bandeira2",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"gifs\/bandeiraazul.gif"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":200,
-                 "x":1989.0303030303,
-                 "y":69.6969696969696
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
          "id":10,
          "name":"pedras",
          "objects":[
@@ -550,6 +488,68 @@
                  "width":300,
                  "x":2506,
                  "y":258
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":7,
+         "name":"bandeiras",
+         "objects":[
+                {
+                 "class":"website",
+                 "height":90,
+                 "id":1,
+                 "name":"bandeira1",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"gifs\/bandeiradecanto.gif"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":180,
+                 "x":2405,
+                 "y":236
+                }, 
+                {
+                 "class":"website",
+                 "height":90,
+                 "id":3,
+                 "name":"bandeira3",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"gifs\/bandeiradecanto.gif"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":180,
+                 "x":1640,
+                 "y":235
+                }, 
+                {
+                 "class":"website",
+                 "height":150,
+                 "id":4,
+                 "name":"bandeira2",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"gifs\/bandeiraazul.gif"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":200,
+                 "x":1989.0303030303,
+                 "y":69.6969696969696
                 }],
          "opacity":1,
          "type":"objectgroup",
